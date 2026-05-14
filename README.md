@@ -16,4 +16,4 @@ It is designed for artists, technical artists, VFX artists, and TDs who need a q
 
 1. Download the latest build (Windows only).
 2. Extract the archive.
-3. Run the application.
+3. Run ALEMBIC_VIEWER.exe
