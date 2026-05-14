@@ -4,6 +4,8 @@ A lightweight desktop viewer for Alembic (.abc) files.
 Alembic Viewer is a simple tool for opening and inspecting Alembic caches.  
 It is designed for artists, technical artists, VFX artists, and TDs who need a quick way to preview geometry caches without opening a full DCC package.
 
+<img width="1239" height="627" alt="image" src="https://github.com/user-attachments/assets/6ce51707-8700-4c8f-b4ae-12215c3f7e4f" />
+
 ## Features
 
 - Open Alembic (`.abc`) files
